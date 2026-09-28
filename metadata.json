@@ -1,0 +1,6 @@
+{
+  "name": "CampusGuard AI",
+  "description": "Intelligent campus safety and student support platform with real-time incident reporting, SOS alerts, AI threat assessment, and security dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
